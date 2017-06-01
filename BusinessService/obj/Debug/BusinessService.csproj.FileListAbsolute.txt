@@ -1,0 +1,12 @@
+A:\HelloWorld\BusinessService\bin\Debug\BusinessService.dll.config
+A:\HelloWorld\BusinessService\bin\Debug\BusinessService.dll
+A:\HelloWorld\BusinessService\bin\Debug\BusinessService.pdb
+A:\HelloWorld\BusinessService\bin\Debug\EntityFramework.dll
+A:\HelloWorld\BusinessService\bin\Debug\EntityFramework.SqlServer.dll
+A:\HelloWorld\BusinessService\bin\Debug\Infrstructure.dll
+A:\HelloWorld\BusinessService\bin\Debug\Infrstructure.pdb
+A:\HelloWorld\BusinessService\bin\Debug\EntityFramework.xml
+A:\HelloWorld\BusinessService\bin\Debug\EntityFramework.SqlServer.xml
+A:\HelloWorld\BusinessService\obj\Debug\BusinessService.csprojResolveAssemblyReference.cache
+A:\HelloWorld\BusinessService\obj\Debug\BusinessService.dll
+A:\HelloWorld\BusinessService\obj\Debug\BusinessService.pdb

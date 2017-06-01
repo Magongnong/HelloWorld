@@ -1,0 +1,9 @@
+A:\HelloWorld\Infrstructure\bin\Debug\Infrstructure.dll.config
+A:\HelloWorld\Infrstructure\bin\Debug\Infrstructure.dll
+A:\HelloWorld\Infrstructure\bin\Debug\Infrstructure.pdb
+A:\HelloWorld\Infrstructure\bin\Debug\EntityFramework.dll
+A:\HelloWorld\Infrstructure\bin\Debug\EntityFramework.SqlServer.dll
+A:\HelloWorld\Infrstructure\bin\Debug\EntityFramework.xml
+A:\HelloWorld\Infrstructure\bin\Debug\EntityFramework.SqlServer.xml
+A:\HelloWorld\Infrstructure\obj\Debug\Infrstructure.dll
+A:\HelloWorld\Infrstructure\obj\Debug\Infrstructure.pdb

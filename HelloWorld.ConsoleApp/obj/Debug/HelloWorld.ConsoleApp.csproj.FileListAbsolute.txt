@@ -1,0 +1,6 @@
+A:\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.exe.config
+A:\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.exe
+A:\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\HelloWorld.ConsoleApp.pdb
+A:\HelloWorld\HelloWorld.ConsoleApp\obj\Debug\HelloWorld.ConsoleApp.exe
+A:\HelloWorld\HelloWorld.ConsoleApp\obj\Debug\HelloWorld.ConsoleApp.pdb
+A:\HelloWorld\HelloWorld.ConsoleApp\bin\Debug\ConsoleApp.exe.config
