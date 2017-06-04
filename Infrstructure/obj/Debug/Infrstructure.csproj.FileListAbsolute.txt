@@ -7,3 +7,4 @@ A:\HelloWorld\Infrstructure\bin\Debug\EntityFramework.xml
 A:\HelloWorld\Infrstructure\bin\Debug\EntityFramework.SqlServer.xml
 A:\HelloWorld\Infrstructure\obj\Debug\Infrstructure.dll
 A:\HelloWorld\Infrstructure\obj\Debug\Infrstructure.pdb
+A:\HelloWorld\Infrstructure\obj\Debug\Infrstructure.csprojResolveAssemblyReference.cache

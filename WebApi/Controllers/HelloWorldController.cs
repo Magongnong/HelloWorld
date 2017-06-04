@@ -12,9 +12,10 @@ namespace WebApi.Controllers
         /// <summary>
         /// Public constructor to initialize greeting instance
         /// </summary>
-        public HelloWorldController()
+        public HelloWorldController(IGreetingService greetingService)
         {
-            _greeting = new GreetingService();
+            //using dependency injection
+            _greeting = greetingService;// new GreetingService();
         }
 
         #endregion

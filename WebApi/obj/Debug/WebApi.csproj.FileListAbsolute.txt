@@ -18,3 +18,7 @@ A:\HelloWorld\WebApi\bin\EntityFramework.xml
 A:\HelloWorld\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
 A:\HelloWorld\WebApi\obj\Debug\WebApi.dll
 A:\HelloWorld\WebApi\obj\Debug\WebApi.pdb
+A:\HelloWorld\WebApi\bin\SimpleInjector.dll
+A:\HelloWorld\WebApi\bin\SimpleInjector.Integration.WebApi.dll
+A:\HelloWorld\WebApi\bin\SimpleInjector.xml
+A:\HelloWorld\WebApi\bin\SimpleInjector.Integration.WebApi.xml
